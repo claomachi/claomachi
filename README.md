@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Claudia Omachi.
-- 👀 I’m a bio-optical oceanographer working with satellite data.
-- 🌱 I’m currently learning Python for data analysis.
+- 👀 I’m a bio-optical oceanographer moving to data science.
+- 🌱 I’m currently diving into Python for data analysis.
 
 - 📫 How to reach me: claudia.omachi@gmail.com
 
